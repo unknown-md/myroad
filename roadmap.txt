@@ -1,0 +1,100 @@
+START
+  │
+  ▼
+┌─────────────────────────┐
+│ 1. JAVASCRIPT           │  4–5 săptămâni  start 17.09.2026
+│                         │
+│ • variabile             │
+│ • funcții               │
+│ • array / objects       │
+│ • map / filter          │
+│ • DOM / events          │
+│ • async / await         │
+│ • promises              │
+│ • fetch / API           │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ 2. GIT + GITHUB         │  1 săptămână
+│                         │
+│ • repository            │
+│ • commit                │
+│ • push / pull           │
+│ • branch                │
+│ • merge                 │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ 3. TYPESCRIPT           │  2–3 săptămâni
+│                         │
+│ • types                 │
+│ • interfaces            │
+│ • unions                │
+│ • generics de bază      │
+│ • TS + proiect          │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ 4. REACT                │  4–5 săptămâni
+│                         │
+│ • components            │
+│ • props                 │
+│ • state                 │
+│ • hooks                 │
+│ • forms                 │
+│ • routing               │
+│ • API calls             │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ 5. NODE.JS + REST API   │  3–4 săptămâni
+│                         │
+│ • Node.js               │
+│ • Express               │
+│ • REST                  │
+│ • CRUD                  │
+│ • authentication        │
+│ • validation            │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ 6. SQL + POSTGRESQL     │  2–3 săptămâni
+│                         │
+│ • SELECT                │
+│ • INSERT / UPDATE       │
+│ • DELETE                │
+│ • JOIN                  │
+│ • relationships         │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────────────┐
+│ 7. PROIECT FULL STACK            │  4–6 săptămâni
+│                                 │
+│ React + TypeScript              │
+│        ↓                        │
+│ REST API + Node.js              │
+│        ↓                        │
+│ PostgreSQL                      │
+│                                 │
+│ Login → User → Admin → CRUD     │
+└───────────────┬─────────────────┘
+                │
+                ▼
+┌─────────────────────────┐
+│ 8. PORTOFOLIU           │
+│                         │
+│ • GitHub                │
+│ • README                │
+│ • proiect live          │
+│ • CV                    │
+│ • LinkedIn              │
+└────────────┬────────────┘
+             │
+             ▼
+        🚀 APLICI LA JOBURI
